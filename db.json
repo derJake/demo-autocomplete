@@ -1,0 +1,16 @@
+{
+    "filteroptions": [
+        {
+            "id": 1,
+            "label": "Krank"
+        },
+        {
+            "id": 2,
+            "label": "Und en"
+        },
+        {
+            "id": 3,
+            "label": "Haus."
+        }
+    ]
+}
